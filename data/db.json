@@ -23,6 +23,12 @@
       "body": "it is a very nice day",
       "author": "Klaas",
       "id": 4
+    },
+    {
+      "title": "post free",
+      "body": "free post ",
+      "author": "Kuba",
+      "id": 5
     }
   ]
 }
